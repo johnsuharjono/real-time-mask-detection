@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/real-time-mask-detection/precache-manifest.9472ca48c91638111cdf90ba77b5f782.js"
+  "/real-time-mask-detection/precache-manifest.bcdc9edd0fb71ad2fc2a4783d431ceb4.js"
 );
 
 self.addEventListener('message', (event) => {
