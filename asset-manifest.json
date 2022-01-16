@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/real-time-mask-detection/static/css/main.0233b93a.chunk.css",
-    "main.js": "/real-time-mask-detection/static/js/main.eabbef4b.chunk.js",
-    "main.js.map": "/real-time-mask-detection/static/js/main.eabbef4b.chunk.js.map",
+    "main.css": "/real-time-mask-detection/static/css/main.9dddcc94.chunk.css",
+    "main.js": "/real-time-mask-detection/static/js/main.509f3c53.chunk.js",
+    "main.js.map": "/real-time-mask-detection/static/js/main.509f3c53.chunk.js.map",
     "runtime-main.js": "/real-time-mask-detection/static/js/runtime-main.35d678b9.js",
     "runtime-main.js.map": "/real-time-mask-detection/static/js/runtime-main.35d678b9.js.map",
     "static/js/2.83bc3ecb.chunk.js": "/real-time-mask-detection/static/js/2.83bc3ecb.chunk.js",
     "static/js/2.83bc3ecb.chunk.js.map": "/real-time-mask-detection/static/js/2.83bc3ecb.chunk.js.map",
     "index.html": "/real-time-mask-detection/index.html",
-    "precache-manifest.bcdc9edd0fb71ad2fc2a4783d431ceb4.js": "/real-time-mask-detection/precache-manifest.bcdc9edd0fb71ad2fc2a4783d431ceb4.js",
+    "precache-manifest.0d17e2f3d709dd0fb9e39fb2feecd548.js": "/real-time-mask-detection/precache-manifest.0d17e2f3d709dd0fb9e39fb2feecd548.js",
     "service-worker.js": "/real-time-mask-detection/service-worker.js",
-    "static/css/main.0233b93a.chunk.css.map": "/real-time-mask-detection/static/css/main.0233b93a.chunk.css.map",
+    "static/css/main.9dddcc94.chunk.css.map": "/real-time-mask-detection/static/css/main.9dddcc94.chunk.css.map",
     "static/js/2.83bc3ecb.chunk.js.LICENSE.txt": "/real-time-mask-detection/static/js/2.83bc3ecb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.35d678b9.js",
     "static/js/2.83bc3ecb.chunk.js",
-    "static/css/main.0233b93a.chunk.css",
-    "static/js/main.eabbef4b.chunk.js"
+    "static/css/main.9dddcc94.chunk.css",
+    "static/js/main.509f3c53.chunk.js"
   ]
 }
