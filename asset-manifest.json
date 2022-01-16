@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/real-time-mask-detection/static/css/main.0233b93a.chunk.css",
+    "main.js": "/real-time-mask-detection/static/js/main.a2ad6dd7.chunk.js",
+    "main.js.map": "/real-time-mask-detection/static/js/main.a2ad6dd7.chunk.js.map",
+    "runtime-main.js": "/real-time-mask-detection/static/js/runtime-main.35d678b9.js",
+    "runtime-main.js.map": "/real-time-mask-detection/static/js/runtime-main.35d678b9.js.map",
+    "static/js/2.83bc3ecb.chunk.js": "/real-time-mask-detection/static/js/2.83bc3ecb.chunk.js",
+    "static/js/2.83bc3ecb.chunk.js.map": "/real-time-mask-detection/static/js/2.83bc3ecb.chunk.js.map",
+    "index.html": "/real-time-mask-detection/index.html",
+    "precache-manifest.9472ca48c91638111cdf90ba77b5f782.js": "/real-time-mask-detection/precache-manifest.9472ca48c91638111cdf90ba77b5f782.js",
+    "service-worker.js": "/real-time-mask-detection/service-worker.js",
+    "static/css/main.0233b93a.chunk.css.map": "/real-time-mask-detection/static/css/main.0233b93a.chunk.css.map",
+    "static/js/2.83bc3ecb.chunk.js.LICENSE.txt": "/real-time-mask-detection/static/js/2.83bc3ecb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35d678b9.js",
+    "static/js/2.83bc3ecb.chunk.js",
+    "static/css/main.0233b93a.chunk.css",
+    "static/js/main.a2ad6dd7.chunk.js"
+  ]
+}
