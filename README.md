@@ -5,8 +5,8 @@ To run this code on your machine, clone or download the repo,
 On the directory folders do the following steps:
 
 <ol>
-<li>npm init to install the relevant modules</li>
-<li>Second, enter yarn start in the terminal to run the app</li>
+<li>Npm init to install the relevant modules</li>
+<li>Enter yarn start in the terminal to run the app</li>
 </ol>
 
 ### Real Time Mask Detection built with React - Tensforflow JS
